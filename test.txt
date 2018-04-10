@@ -1,1 +1,2 @@
 Just typing this to check if I successfully changed the remote URL to the SSH version.
+Now looking if it has worked by using the [$ git push -u origign master] command.
